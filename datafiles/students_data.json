@@ -1,0 +1,282 @@
+[
+    {
+        "name": "Hari",
+        "roll_number": 45,
+        "email": "haeeyr@gmail.com",
+        "phone_number": 9876543211,
+        "marks": {
+            "Math": 88,
+            "Science": 77,
+            "English": 66,
+            "History": 78,
+            "Geography": 56
+        },
+        "address": "Kolkatttta"
+    },
+    {
+        "name": "Aarav Thapa",
+        "roll_number": 12,
+        "email": "aaravthapa@gmail.com",
+        "phone_number": 9812345678,
+        "marks": {
+            "Math": 85,
+            "Science": 90,
+            "English": 75,
+            "History": 80,
+            "Geography": 70
+        },
+        "address": "Baluwatar, Kathmandu"
+    },
+    {
+        "name": "Sita Sharma",
+        "roll_number": 23,
+        "email": "sitasharma@gmail.com",
+        "phone_number": 9801234567,
+        "marks": {
+            "Math": 95,
+            "Science": 88,
+            "English": 78,
+            "History": 85,
+            "Geography": 65
+        },
+        "address": "Lakeside, Pokhara"
+    },
+    {
+        "name": "Ravi Shrestha",
+        "roll_number": 34,
+        "email": "ravishrestha@gmail.com",
+        "phone_number": 9845123456,
+        "marks": {
+            "Math": 80,
+            "Science": 70,
+            "English": 60,
+            "History": 75,
+            "Geography": 68
+        },
+        "address": "Chitwan, Bharatpur"
+    },
+    {
+        "name": "Mina Gurung",
+        "roll_number": 56,
+        "email": "minagurung@gmail.com",
+        "phone_number": 9823456789,
+        "marks": {
+            "Math": 78,
+            "Science": 85,
+            "English": 80,
+            "History": 82,
+            "Geography": 77
+        },
+        "address": "Damauli, Tanahun"
+    },
+    {
+        "name": "Suman Karki",
+        "roll_number": 67,
+        "email": "sumankarki@gmail.com",
+        "phone_number": 9812347890,
+        "marks": {
+            "Math": 90,
+            "Science": 87,
+            "English": 92,
+            "History": 89,
+            "Geography": 90
+        },
+        "address": "Putalisadak, Kathmandu"
+    },
+    {
+        "name": "Anjali Rijal",
+        "roll_number": 78,
+        "email": "anjalirijal@gmail.com",
+        "phone_number": 9809876543,
+        "marks": {
+            "Math": 85,
+            "Science": 78,
+            "English": 88,
+            "History": 77,
+            "Geography": 80
+        },
+        "address": "Bhaktapur"
+    },
+    {
+        "name": "Kiran Rai",
+        "roll_number": 89,
+        "email": "kiranrai@gmail.com",
+        "phone_number": 9811112233,
+        "marks": {
+            "Math": 70,
+            "Science": 65,
+            "English": 75,
+            "History": 68,
+            "Geography": 72
+        },
+        "address": "Hetauda, Makwanpur"
+    },
+    {
+        "name": "Prakash Adhikari",
+        "roll_number": 90,
+        "email": "prakashadhikari@gmail.com",
+        "phone_number": 9841234567,
+        "marks": {
+            "Math": 82,
+            "Science": 79,
+            "English": 83,
+            "History": 80,
+            "Geography": 85
+        },
+        "address": "Biratnagar, Morang"
+    },
+    {
+        "name": "Sarita Lama",
+        "roll_number": 101,
+        "email": "saritalama@gmail.com",
+        "phone_number": 9807654321,
+        "marks": {
+            "Math": 88,
+            "Science": 90,
+            "English": 85,
+            "History": 87,
+            "Geography": 86
+        },
+        "address": "Patan, Lalitpur"
+    },
+    {
+        "name": "Dipak Ghimire",
+        "roll_number": 102,
+        "email": "dipakghimire@gmail.com",
+        "phone_number": 9812345670,
+        "marks": {
+            "Math": 75,
+            "Science": 80,
+            "English": 70,
+            "History": 72,
+            "Geography": 78
+        },
+        "address": "Dharan, Sunsari"
+    },
+    {
+        "name": "Rekha Chaudhary",
+        "roll_number": 103,
+        "email": "rekhachaudhary@gmail.com",
+        "phone_number": 9801234560,
+        "marks": {
+            "Math": 80,
+            "Science": 85,
+            "English": 88,
+            "History": 84,
+            "Geography": 82
+        },
+        "address": "Janakpur, Dhanusha"
+    },
+    {
+        "name": "Ashok Bhattarai",
+        "roll_number": 104,
+        "email": "ashokbhattarai@gmail.com",
+        "phone_number": 9841234560,
+        "marks": {
+            "Math": 90,
+            "Science": 88,
+            "English": 85,
+            "History": 89,
+            "Geography": 87
+        },
+        "address": "Birgunj, Parsa"
+    },
+    {
+        "name": "Bina Tamang",
+        "roll_number": 105,
+        "email": "binatamang@gmail.com",
+        "phone_number": 9823456701,
+        "marks": {
+            "Math": 85,
+            "Science": 82,
+            "English": 80,
+            "History": 78,
+            "Geography": 83
+        },
+        "address": "Banepa, Kavre"
+    },
+    {
+        "name": "Gopal KC",
+        "roll_number": 106,
+        "email": "gopalkc@gmail.com",
+        "phone_number": 9812345671,
+        "marks": {
+            "Math": 88,
+            "Science": 85,
+            "English": 87,
+            "History": 84,
+            "Geography": 86
+        },
+        "address": "Nepalgunj, Banke"
+    },
+    {
+        "name": "Kusum Pandey",
+        "roll_number": 107,
+        "email": "kusumpandey@gmail.com",
+        "phone_number": 9801234571,
+        "marks": {
+            "Math": 75,
+            "Science": 78,
+            "English": 80,
+            "History": 77,
+            "Geography": 79
+        },
+        "address": "Butwal, Rupandehi"
+    },
+    {
+        "name": "Rajan Shahi",
+        "roll_number": 108,
+        "email": "rajanshahi@gmail.com",
+        "phone_number": 9845678901,
+        "marks": {
+            "Math": 85,
+            "Science": 80,
+            "English": 82,
+            "History": 81,
+            "Geography": 84
+        },
+        "address": "Dang, Tulsipur"
+    },
+    {
+        "name": "Manju Koirala",
+        "roll_number": 109,
+        "email": "manjukoirala@gmail.com",
+        "phone_number": 9812345672,
+        "marks": {
+            "Math": 90,
+            "Science": 92,
+            "English": 88,
+            "History": 89,
+            "Geography": 91
+        },
+        "address": "Dhangadhi, Kailali"
+    },
+    {
+        "name": "Santosh Poudel",
+        "roll_number": 110,
+        "email": "santoshpoudel@gmail.com",
+        "phone_number": 9809876540,
+        "marks": {
+            "Math": 78,
+            "Science": 80,
+            "English": 75,
+            "History": 77,
+            "Geography": 79
+        },
+        "address": "Gorkha, Gorkha"
+    },
+    {
+        "name": "Rita Bista",
+        "roll_number": 111,
+        "email": "ritabista@gmail.com",
+        "phone_number": 9823456780,
+        "marks": {
+            "Math": 85,
+            "Science": 87,
+            "English": 80,
+            "History": 82,
+            "Geography": 86
+        },
+        "address": "Ilam, Ilam"
+    }
+]

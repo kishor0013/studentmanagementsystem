@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Kishor Timilsena",
+        "subject": "Maths",
+        "id": 8989,
+        "address": "Kohalpur",
+        "email": "hagggg@gmail.com",
+        "phone_number": 9898989811
+    },
+    {
+        "name": "Pratima Sharma",
+        "subject": "Science",
+        "id": 8990,
+        "address": "Kathmandu",
+        "email": "pratima@gmail.com",
+        "phone_number": 9801234567
+    },
+    {
+        "name": "Rajesh Gurung",
+        "subject": "English",
+        "id": 8991,
+        "address": "Pokhara",
+        "email": "rajesh@gmail.com",
+        "phone_number": 9812345678
+    },
+    {
+        "name": "Sarita Rai",
+        "subject": "History",
+        "id": 8992,
+        "address": "Lalitpur",
+        "email": "sarita@gmail.com",
+        "phone_number": 9823456789
+    },
+    {
+        "name": "Anil Shrestha",
+        "subject": "Geography",
+        "id": 8993,
+        "address": "Bhaktapur",
+        "email": "anil@gmail.com",
+        "phone_number": 9834567890
+    }
+]
